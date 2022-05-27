@@ -2,6 +2,7 @@ node_modules/**/*
 build/**/*
 certs/**/*
 build/**/*
+.env
 
 *.jks
 *.p8
@@ -9,5 +10,6 @@ build/**/*
 *.key
 *.mobileprovision
 *.orig.*
+
 
 package-lock.json
